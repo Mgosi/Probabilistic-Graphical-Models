@@ -1,2 +1,4 @@
 # Probabilistic Graphical Models
-We compare the handwriting images of different writers from the AND dataset using Bayesian Networks using the features provided and compare the handwritings of various writers.
+- Developed Probabilistic Graphical Models to determine the probabilities of observations which are described by several variables in the 'th' dataset.
+- Constructed Bayesian Networks and chose the best model using K2-Score to find the correct writer
+- Constructed Markov Chain Models and found the inference of the models using Belief Propagation
